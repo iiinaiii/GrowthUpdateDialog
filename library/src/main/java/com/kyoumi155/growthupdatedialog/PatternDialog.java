@@ -27,6 +27,9 @@ public class PatternDialog {
     }
 
 
+    /**
+     * Pattern Dialog's Builder
+     */
     public static class Builder {
         @DrawableRes
         int imageResId;
